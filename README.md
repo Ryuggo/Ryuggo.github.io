@@ -1,4 +1,6 @@
 # ryuggo.github.io
-Personal Website
+## Home Page for all of my other Web Projects
 
 https://ryuggo.github.io/
+
+https://ryuggo.github.io/aerethios/index.html
