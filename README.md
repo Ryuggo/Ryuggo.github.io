@@ -1,4 +1,4 @@
-# ryuggo.github.io
+# Web Portfolio
 ## Home Page for all of my other Web Projects
 
 Main : https://ryuggo.github.io/index.html
