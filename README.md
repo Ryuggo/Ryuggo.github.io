@@ -3,4 +3,4 @@
 
 Main : https://ryuggo.github.io/index.html
 
-Aerethios : https://ryuggo.github.io/aerethios/index.html
+Aerethios : https://ryuggo.github.io/Aerethios/
